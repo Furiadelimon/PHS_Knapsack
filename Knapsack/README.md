@@ -50,7 +50,7 @@ Se abrirá automáticamente una ventana en tu navegador web predeterminado. Si n
 ## Estructura del Proyecto
 
 ```
-OptMochila/
+Knapsack/
 ├── app.py                  # Archivo principal de la aplicación
 ├── requirements.txt        # Dependencias del proyecto
 ├── README.md               # Documentación
