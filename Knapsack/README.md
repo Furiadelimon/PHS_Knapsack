@@ -76,8 +76,8 @@ Este proyecto está licenciado bajo la licencia MIT.
 
 ## Autor
 
-Desarrollado por: OptMochila Team
+Desarrollado por: PHS
 
 ---
 
-*Desarrollado con ❤️ usando Streamlit y Google OR-Tools*
+*Entregados a la causa*
